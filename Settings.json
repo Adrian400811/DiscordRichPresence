@@ -1,9 +1,9 @@
 {
-     "CLIENT": "None",
-     "STATE": "None",
-     "DETAIL": "None",
+     "CLIENT": "",
+     "STATE": "",
+     "APP": "",
      "LARGE_TEXT": "None",
      "SMALL_TEXT": "None",
-     "LARGE_IMAGE": "None",
-     "SMALL_IMAGE": ""
+     "SIZE": "28"
 }
+
