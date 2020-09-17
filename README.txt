@@ -1,4 +1,4 @@
-Please note that Windows cannot run .sh files. If you are using windows, please run the files yourself (Main.py or index.js in YT file).
+Please note that Windows cannot run .sh files. If you are using windows, please run the files yourself (Main.py or index.js).
 
 The index.js, package.json, package-lock.json and YT_README.md is not coded by me. I am just adding my own things and try to merge them.If error from these files occours, please issue in this repo:
 https://github.com/imfunniee/youtube-discord-rpc
