@@ -6,7 +6,7 @@ read -p "1/2/3" var
 
 if [ "${var}" == "1" ]; then
 	printf "Selected Custom\n"
-	python3 ./custom.py
+	python3 ./main.py
 elif [ "${var}" == "2" ]; then
 	printf "Selected YT\n"
 	node ./YT/index.js
